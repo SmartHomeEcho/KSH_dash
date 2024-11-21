@@ -7,5 +7,3 @@
 7. Terminalba gépeljük be: pip install -r .\requirements.txt -->a program futtatásához szükséges modulokat telepítjük a segítségével.
 8. Javasolt a Virtual Code Studio újraindítása.
 9. Terminalba gépeljük be: python app.py --> ezzel a paranccsal elindítjuk a programunkat. 
-    
-
