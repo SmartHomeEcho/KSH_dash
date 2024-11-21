@@ -6,7 +6,7 @@ import webbrowser
 from threading import Timer
 
 # Adatok betöltése
-file_path = 'forras.csv'
+file_path = './stadat-jov0045-14.1.2.4-hu.csv'
 data = load_and_prepare_data(file_path)
 
 # Dash alkalmazás inicializálása

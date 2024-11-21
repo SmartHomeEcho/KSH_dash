@@ -1,7 +1,7 @@
 import pandas as pd
 
 def load_and_prepare_data(file_path):
-    data = pd.read_csv(file_path, encoding='utf-8', sep=';', skiprows=1)
+    data = pd.read_csv(file_path, encoding='Windows-1252', sep=';', skiprows=1)
     data.columns = [col.strip() for col in data.columns]
     data.rename(columns={'Megnevezés': 'Jövedelem_típus', 'Ország összesen': 'Ország összesen'}, inplace=True)
 
