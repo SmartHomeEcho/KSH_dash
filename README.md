@@ -1,3 +1,7 @@
+GDE programozás alapok DKRB csoport beadandó dolgozat
+
+Telepítési útmutató:
+
 1. Kicsomagolni a KSH_dash fájlt.
 2. Virtual Code Studio program indítása
 3. Megnyitjuk a mappát, ahova kicsomagoltuk a programunkat. (File/Open Folder.../kicsomagolt útvonal)
